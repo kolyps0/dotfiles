@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kailahrobinson@hotmail.com
+	name = Kailah Robinson
